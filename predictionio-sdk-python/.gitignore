@@ -1,0 +1,16 @@
+*.egg-info
+.idea
+.tox
+.coverage
+*.pyc
+.project
+.pydevproject
+.settings
+*.swp
+build/
+dist/
+MANIFEST
+docs/build/
+tests_env/
+*.zip
+.DS_Store
